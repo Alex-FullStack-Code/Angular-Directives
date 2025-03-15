@@ -1,6 +1,18 @@
 ## Directive ARTICLE
 ## https://levelup.gitconnected.com/the-power-of-angular-directives-a-comprehensive-guide-f9f929404b6b
 
+## https://medium.com/@angular_developer_josematos/building-reusable-components-with-angular-directives-aea33fb81f91
+
+
+
+
+
+
+
+
+
+
+
 # Practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
